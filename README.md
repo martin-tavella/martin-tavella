@@ -4,7 +4,7 @@ Soy Desarrollador Web Fullstack con formación intensiva en el bootcamp [SoyHenr
 
 ## 🧰 Tecnologías que uso
 - **Lenguajes:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frontend:** React, Bootstrap, Vite
+- **Frontend:** React, Bootstrap, Vite, Tailwind, Next.js
 - **Backend:** Node.js, NestJS, Express, TypeORM, Mongoose
 - **Bases de datos:** PostgreSQL, MongoDB
 - **Herramientas:** Git, Swagger, Cloudinary, Jira, Confluence, Slack
