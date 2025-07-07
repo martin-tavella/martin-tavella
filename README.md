@@ -56,7 +56,7 @@ Soy **Desarrollador Web Fullstack** con formación intensiva en el bootcamp [Soy
 
 ---
 
-## 💻 Proyectos Destacados
+## 💻 Proyecto Destacado
 
 ### 🎯 Servicio Libre *(Nuevo)*
 > **Aplicación completa de servicios freelance con integración de pagos**
@@ -80,37 +80,6 @@ Plataforma fullstack que conecta freelancers con clientes, incluyendo sistema de
 - Integración con múltiples pasarelas de pago
 - API RESTful completamente documentada
 - Diseño responsivo y moderno
-
----
-
-### 🧼 [LuxeWash](https://github.com/pi-rym/PM3-martin-tavella)
-> **Gestor de turnos para lavado de autos**
-
-Aplicación fullstack que permite a los usuarios reservar y gestionar turnos mediante una interfaz clara y funcional.
-
-**🔧 Tecnologías:** React, Vite, Bootstrap, Node.js, TypeScript, Express, PostgreSQL
-
-**✨ Funcionalidades:**
-- Sistema de reservas dinámico
-- Validaciones robustas
-- Consumo de API RESTful
-- Diseño completamente responsivo
-
----
-
-### 🛒 [Ecommerce API](https://github.com/pi-rym/PM4BE-martin-tavella)
-> **API RESTful completa para tienda online**
-
-Backend robusto que simula una tienda online con gestión completa de usuarios, productos y órdenes.
-
-**🔧 Tecnologías:** Node.js, TypeScript, NestJS, PostgreSQL, Swagger, Cloudinary
-
-**✨ Funcionalidades:**
-- Sistema de autenticación y roles
-- CRUD completo de productos
-- Gestión de carrito y órdenes
-- Subida de imágenes a la nube
-- Documentación automática con Swagger
 
 ---
 
