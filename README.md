@@ -75,7 +75,7 @@ Plataforma fullstack que conecta freelancers con clientes, incluyendo sistema de
 - **Herramientas** Metodología SCRUM, Trello, Slack, Discord
 
 **✨ Funcionalidades:**
-- Sistema de autenticación y autorización
+- Sistema de autenticación y autorización de terceros
 - Gestión completa de servicios y usuarios
 - Integración con múltiples pasarelas de pago
 - API RESTful completamente documentada
