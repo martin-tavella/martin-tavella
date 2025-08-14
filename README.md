@@ -93,14 +93,6 @@ Plataforma fullstack que conecta freelancers con clientes, incluyendo sistema de
 
 ---
 
-## 🎯 Actualmente
-
-🔍 **Estoy en búsqueda de mi primera oportunidad laboral en el mundo IT**, con ganas de aprender, crecer y aportar a proyectos reales. Me interesa especialmente el desarrollo fullstack y los desafíos técnicos que impliquen mejora continua.
-
-💡 **Siempre aprendiendo:** Manteniéndome actualizado con las últimas tecnologías y mejores prácticas del desarrollo web.
-
----
-
 ## 📫 Conectemos
 
 <div align="center">
