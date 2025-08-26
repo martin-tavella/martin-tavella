@@ -54,35 +54,6 @@ Soy **Desarrollador Web Fullstack** con formación intensiva en el bootcamp [Soy
 
 </div>
 
----
-
-## 💻 Proyecto Destacado
-
-### 🎯 Servicio Libre *(Nuevo)*
-> **Aplicación completa de servicios freelance con integración de pagos**
-
-**🔗 Repositorios:** [Frontend](https://github.com/Servicios-Libre/frontend) | [Backend](https://github.com/Servicios-Libre/backend)
-
-Plataforma fullstack que conecta freelancers con clientes, incluyendo sistema de pagos integrado y gestión completa de servicios.
-
-**🔧 Tecnologías:** 
-- **Frontend:** Next.js, React, Tailwind CSS
-- **Backend:** Node.js, NestJS, TypeORM, PostgreSQL
-- **Pagos:** Stripe, Mercado Pago
-- **Deploy:** Vercel (Frontend), Render (Backend)
-- **Documentación:** Swagger
-- **Autenticación:** JWT
-- **Herramientas** Metodología SCRUM, Trello, Slack, Discord
-
-**✨ Funcionalidades:**
-- Sistema de autenticación y autorización de terceros
-- Gestión completa de servicios y usuarios
-- Integración con múltiples pasarelas de pago
-- API RESTful completamente documentada
-- Diseño responsivo y moderno
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
