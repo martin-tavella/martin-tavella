@@ -59,7 +59,7 @@ Soy **Desarrollador Web Fullstack** con formación intensiva en el bootcamp [Soy
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=martin-tavella&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" alt="GitHub Activity Graph" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-tavella&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  [![Martin Tavella's GitHub stats](https://github-readme-stats.vercel.app/api?username=martin-tavella)](https://github.com/martin-tavella)
 </div>
 
 ---
